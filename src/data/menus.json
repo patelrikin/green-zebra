@@ -1,1 +1,9 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "MenuItem1",
+      "title": "Menu Item 1",
+      "url": "/menuitem1"
+    }
+  ]
+}
